@@ -1,8 +1,8 @@
 HackerRank-101Hack
 ==================
 
-Common Child
-------------
+Common Child (30 points)
+------------------------
 
 Given two strings a and b of equal length, what’s the longest string (S) that can be constructed such that S is a child to both a and b.
 
@@ -42,8 +42,8 @@ Sample Output #1
 
 AA and BB has no characters in common and hence the output 0
 
-Similar Pair
-------------
+Similar Pair (50 points)
+------------------------
 
 You are given a tree where each node is labeled from 1, 2, …, n. How many similar pairs(S) are there in this tree?
 
